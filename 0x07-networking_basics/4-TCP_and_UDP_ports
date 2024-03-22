@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# displays listening ports, also shows names and pid of ports.
-
-netstat -l --program
